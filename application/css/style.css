@@ -1,3 +1,6 @@
+body, h1, h2, h3, h4, p, span, label, button {
+    font-family: Sans-serif;
+}
 body {
     background-color: #F4F5F5;
     padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
@@ -124,6 +127,7 @@ ul.headers li:last-of-type .btn.danger {
 textarea {
     min-width: 390px;
     max-width: 390px;
+    max-height: 250px;
 }
 
 .help-block.hide {
@@ -141,8 +145,8 @@ pre {
     overflow: auto;
 
     max-width: 900px;
-    max-height: 900px;
-
+    max-height: 300px;
+    height: 200px;
     white-space: pre;
     word-wrap: normal;
 }

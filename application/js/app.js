@@ -312,7 +312,7 @@ window.addEvent('domready', function() {
 
         'reset': function(event) {
             // clear oAuth tokens
-            chrome.extension.getBackgroundPage().oAuth.clear();
+           // chrome.extension.getBackgroundPage().oAuth.clear();
 
             // load stored defaults
             defaults = JSON.decode(localStorage.getItem('oauth-defaults'));
