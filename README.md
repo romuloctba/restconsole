@@ -8,6 +8,7 @@ This project is a for from @ahmadnassri's open source online/chrome extension to
 
 
 ## Features:
+* Packed as executable for: Win 32, Win 64, Linux 64
 * Syntax highlighting (multiple themes)
 * Custom headers
 * Construct POST or PUT body via raw input

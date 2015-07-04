@@ -1,12 +1,12 @@
 {
     "webexe_settings": {
         "linux-x32": false, 
-        "export_dir": "C:\\Users\\romuloctba\\dev\\Web2ExeWin\\compilados", 
+        "export_dir": "C:\\Users\\romuloctba\\dev\\Labs\\restconsole\\dist", 
         "windows-x64": true, 
         "download_dir": "C:\\Users\\romuloctba\\dev\\Web2ExeWin\\nw-versions", 
         "nw_compression_level": 1, 
         "mac-x32": false, 
-        "windows-x32": false, 
+        "windows-x32": true, 
         "mac-x64": false, 
         "nw_version": "0.12.1", 
         "force_download": false, 
