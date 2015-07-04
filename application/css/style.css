@@ -46,7 +46,7 @@ body > .container-fluid {
 }
 
 .topbar .brand {
-    padding: 4px 20px 0px 0px;
+    padding: 4px 20px 0px 15px;
 }
 
 .topbar .brand img {
